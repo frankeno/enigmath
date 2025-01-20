@@ -129,7 +129,7 @@
     ],
     "hints": [
         "",
-        "(a + b) x c",
+        "(a + b) : c",
         "0xxxx=1, x0xxx=2, xx0xx=3, ...",
         "(a x c) + b",
         "(c - d) ba",
