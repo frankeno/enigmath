@@ -717,7 +717,7 @@
     "(b x a) (b x c) (b x d)",
     "[(a - b) x c] - b",
     "(a x b) : c",
-    "(a + c) (a x c) (a + b)",
+    "(a + d) (a x c) (a + b)",
     ""
   ]
 }
