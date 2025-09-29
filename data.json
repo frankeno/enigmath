@@ -968,7 +968,7 @@
     "(a-b) (c-d) [(a-b)(c-d) x e]",
     "[(a x b) + c] x d",
     "(a x c) (b x d) (a+b+c+d)",
-    "[(a + b) x c] + d",
+    "[(a + b) x c] - d",
     ""
   ]
 }
