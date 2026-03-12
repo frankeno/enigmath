@@ -1280,7 +1280,7 @@
     "(a + b + c + d) + d",
     "[(c x d) - b] + a",
     "[(a - b) x c] + d",
-    "(a - d) (a + d) (a x d)",
+    "(a - d) (b + d) (c x d)",
     "(a + b) (c x d) (c - e)",
     "(b + c + d) - a",
     "(a x d) (b x c) (a + b + c + d)",
