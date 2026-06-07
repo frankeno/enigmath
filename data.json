@@ -1715,7 +1715,7 @@
     "(a + b) (b x c)",
     "(c + d) (a x b)",
     "(a x b + c) - d",
-    "a x b + c + d + e",
+    "(a x b) + c + d + e",
     ""
   ]
 }
