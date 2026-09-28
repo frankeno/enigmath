@@ -2054,7 +2054,7 @@
     "(a + d) (b - c)",
     "(c + d) (b + d) (a x d)",
     "(a - b) + (c x d)",
-    "(a x b - c) (a x b - d)"
+    "(a x b - c) (a x b - d)",
     ""
   ]
  }
